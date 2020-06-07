@@ -1,0 +1,3 @@
+Manager: 	pygomas manager -j manager_macammoc@gtirouter.dsic.upv.es -m map_10 -sj service_macammoc@gtirouter.dsic.upv.es -np 20
+Agentes: 	pygomas run -g pygomas.json
+Render: 	pygomas render

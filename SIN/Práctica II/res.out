@@ -1,0 +1,14 @@
+OUTPUT
+#      a        b   E   k Ete Ete(%)    Ite(%)
+#------- -------- --- --- --- ------- ----------
+     0.1      0.1   0  85 205    17.1 [ 15.0,  19.2]
+     1.0      0.1   0  79 195    16.2 [ 14.2,  18.3]
+    10.0      0.1   0  75 197    16.4 [ 14.3,  18.5]
+   100.0      0.1   0  70 196    16.3 [ 14.2,  18.4]
+  1000.0      0.1   0  70 196    16.3 [ 14.2,  18.4]
+ 10000.0      0.1   0  70 196    16.3 [ 14.2,  18.4]
+
+
+EXPLICACIÓ
+Per a la modificació sols calia canviar la línea NTr=round(.7*N) per NTr=round(.6*N) ja que el valor de k és per defecte 200 en el perceptró.
+Com el valor del factor d'aprenentatge he decidit triar una "a" de valors entre 0.1 y 10000 y per al marge un valor "b" fix de 0.1. Com observen les dades son linealment separables ja que Perceptro convergisc.

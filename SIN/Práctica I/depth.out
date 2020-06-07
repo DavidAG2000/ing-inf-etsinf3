@@ -1,0 +1,305 @@
+<== f-0     (initial-fact)
+==> f-0     (initial-fact)
+==> f-1     (ax M 6 A 1 2 3 4 E 1 1)
+==> Activation 0      desenganxar: f-1
+==> f-2     (m 1 0 3 12)
+==> f-3     (m 2 0 5 18)
+==> f-4     (m 3 1 9 20)
+==> f-5     (m 4 6 9 14)
+==> Activation 0      carrega: f-1,f-5
+==> f-6     (v 2 2 2)
+==> f-7     (r 0 1)
+==> f-8     (r 1 0)
+==> f-9     (r 1 3)
+==> f-10    (r 1 5)
+==> f-11    (r 3 1)
+==> f-12    (r 3 4)
+==> f-13    (r 4 3)
+==> f-14    (r 4 2)
+==> f-15    (r 2 4)
+==> f-16    (r 2 0)
+==> f-17    (r 0 2)
+==> f-18    (r 5 1)
+==> f-19    (r 5 9)
+==> f-20    (r 9 5)
+==> f-21    (r 9 6)
+==> f-22    (r 6 9)
+==> Activation 0      mou: f-1,f-22
+==> f-23    (r 6 8)
+==> Activation 0      mou: f-1,f-23
+==> f-24    (r 8 6)
+==> f-25    (r 8 7)
+==> f-26    (r 7 8)
+==> f-27    (r 7 5)
+==> f-28    (r 5 7)
+==> f-29    (ax M 8 A 1 2 3 4 E 1 1)
+==> Activation 0      desenganxar: f-29
+==> Activation 0      mou: f-29,f-24
+==> Activation 0      mou: f-29,f-25
+==> f-30    (ax M 7 A 1 2 3 4 E 1 1)
+==> Activation 0      desenganxar: f-30
+==> Activation 0      mou: f-30,f-26
+==> Activation 0      mou: f-30,f-27
+==> f-31    (ax M 5 A 1 2 3 4 E 1 1)
+==> Activation 0      desenganxar: f-31
+==> Activation 0      mou: f-31,f-18
+==> Activation 0      mou: f-31,f-19
+==> Activation 0      mou: f-31,f-28
+==> f-32    (ax M 9 A 1 2 3 4 E 1 1)
+==> Activation 0      desenganxar: f-32
+==> Activation 0      mou: f-32,f-20
+==> Activation 0      mou: f-32,f-21
+==> f-33    (ax M 9 A 1 2 3 4 E 0 0)
+==> Activation 0      mou: f-33,f-20
+==> Activation 0      mou: f-33,f-21
+==> f-34    (v 1 9 1)
+==> Activation 0      enganxar: f-33,f-34
+==> f-35    (ax M 6 A 1 2 3 4 E 0 0)
+==> Activation 0      mou: f-35,f-22
+==> Activation 0      mou: f-35,f-23
+==> f-36    (ax M 8 A 1 2 3 4 E 0 0)
+==> Activation 0      mou: f-36,f-24
+==> Activation 0      mou: f-36,f-25
+==> f-37    (ax M 7 A 1 2 3 4 E 0 0)
+==> Activation 0      mou: f-37,f-26
+==> Activation 0      mou: f-37,f-27
+==> f-38    (ax M 5 A 1 2 3 4 E 0 0)
+==> Activation 0      mou: f-38,f-18
+==> Activation 0      mou: f-38,f-19
+==> Activation 0      mou: f-38,f-28
+==> f-39    (ax M 1 A 1 2 3 4 E 0 0)
+==> Activation 0      mou: f-39,f-8
+==> Activation 0      mou: f-39,f-9
+==> Activation 0      mou: f-39,f-10
+==> f-40    (ax M 3 A 1 2 3 4 E 0 0)
+==> Activation 0      mou: f-40,f-11
+==> Activation 0      mou: f-40,f-12
+==> f-41    (ax M 4 A 1 2 3 4 E 0 0)
+==> Activation 0      mou: f-41,f-13
+==> Activation 0      mou: f-41,f-14
+==> f-42    (ax M 2 A 1 2 3 4 E 0 0)
+==> Activation 0      enganxar: f-42,f-6
+==> Activation 0      mou: f-42,f-15
+==> Activation 0      mou: f-42,f-16
+==> f-43    (ax M 0 A 1 2 3 4 E 0 0)
+==> Activation 0      mou: f-43,f-7
+==> Activation 0      mou: f-43,f-17
+==> f-44    (ax M 2 A 1 2 3 4 E 2 2)
+==> Activation 0      desenganxar: f-44
+==> Activation 0      mou: f-44,f-15
+==> Activation 0      mou: f-44,f-16
+==> f-45    (ax M 0 A 1 2 3 4 E 2 2)
+==> Activation 0      desenganxar: f-45
+==> Activation 0      mou: f-45,f-7
+==> Activation 0      mou: f-45,f-17
+==> Activation 0      carrega: f-45,f-3
+==> f-46    (ax M 0 2 A 1 3 4 E 2 2)
+==> Activation 0      mou: f-46,f-7
+==> Activation 0      mou: f-46,f-17
+==> f-47    (ax M 2 2 A 1 3 4 E 2 2)
+==> Activation 0      mou: f-47,f-15
+==> Activation 0      mou: f-47,f-16
+==> f-48    (ax M 4 2 A 1 3 4 E 2 2)
+==> Activation 0      mou: f-48,f-13
+==> Activation 0      mou: f-48,f-14
+==> f-49    (ax M 3 2 A 1 3 4 E 2 2)
+==> Activation 0      mou: f-49,f-11
+==> Activation 0      mou: f-49,f-12
+==> f-50    (ax M 1 2 A 1 3 4 E 2 2)
+==> Activation 0      mou: f-50,f-8
+==> Activation 0      mou: f-50,f-9
+==> Activation 0      mou: f-50,f-10
+==> Activation 0      carrega: f-50,f-4
+==> f-51    (ax M 1 3 2 A 1 4 E 2 2)
+==> Activation 0      mou: f-51,f-8
+==> Activation 0      mou: f-51,f-9
+==> Activation 0      mou: f-51,f-10
+==> f-52    (ax M 5 3 2 A 1 4 E 2 2)
+==> Activation 0      mou: f-52,f-18
+==> Activation 0      mou: f-52,f-19
+==> Activation 0      mou: f-52,f-28
+==> Activation 0      descarr: f-52,f-3
+==> f-53    (ax M 5 3 A 1 4 E 2 2)
+==> Activation 0      mou: f-53,f-18
+==> Activation 0      mou: f-53,f-19
+==> Activation 0      mou: f-53,f-28
+==> f-54    (ax M 7 3 A 1 4 E 2 2)
+==> Activation 0      mou: f-54,f-26
+==> Activation 0      mou: f-54,f-27
+==> f-55    (ax M 8 3 A 1 4 E 2 2)
+==> Activation 0      mou: f-55,f-24
+==> Activation 0      mou: f-55,f-25
+==> f-56    (ax M 6 3 A 1 4 E 2 2)
+==> Activation 0      mou: f-56,f-22
+==> Activation 0      mou: f-56,f-23
+==> f-57    (ax M 9 3 A 1 4 E 2 2)
+==> Activation 0      mou: f-57,f-20
+==> Activation 0      mou: f-57,f-21
+==> Activation 0      descarr: f-57,f-4
+==> f-58    (ax M 9 A 1 4 E 2 2)
+==> Activation 0      desenganxar: f-58
+==> Activation 0      mou: f-58,f-20
+==> Activation 0      mou: f-58,f-21
+==> f-59    (ax M 6 A 1 4 E 2 2)
+==> Activation 0      desenganxar: f-59
+==> Activation 0      mou: f-59,f-22
+==> Activation 0      mou: f-59,f-23
+==> f-60    (ax M 8 A 1 4 E 2 2)
+==> Activation 0      desenganxar: f-60
+==> Activation 0      mou: f-60,f-24
+==> Activation 0      mou: f-60,f-25
+==> f-61    (ax M 7 A 1 4 E 2 2)
+==> Activation 0      desenganxar: f-61
+==> Activation 0      mou: f-61,f-26
+==> Activation 0      mou: f-61,f-27
+==> f-62    (ax M 5 A 1 4 E 2 2)
+==> Activation 0      desenganxar: f-62
+==> Activation 0      mou: f-62,f-18
+==> Activation 0      mou: f-62,f-19
+==> Activation 0      mou: f-62,f-28
+==> f-63    (ax M 1 A 1 4 E 2 2)
+==> Activation 0      desenganxar: f-63
+==> Activation 0      mou: f-63,f-8
+==> Activation 0      mou: f-63,f-9
+==> Activation 0      mou: f-63,f-10
+==> f-64    (ax M 3 A 1 4 E 2 2)
+==> Activation 0      desenganxar: f-64
+==> Activation 0      mou: f-64,f-11
+==> Activation 0      mou: f-64,f-12
+==> f-65    (ax M 4 A 1 4 E 2 2)
+==> Activation 0      desenganxar: f-65
+==> Activation 0      mou: f-65,f-13
+==> Activation 0      mou: f-65,f-14
+==> f-66    (ax M 2 A 1 4 E 2 2)
+==> Activation 0      desenganxar: f-66
+==> Activation 0      mou: f-66,f-15
+==> Activation 0      mou: f-66,f-16
+==> f-67    (ax M 0 A 1 4 E 2 2)
+==> Activation 0      desenganxar: f-67
+==> Activation 0      mou: f-67,f-7
+==> Activation 0      mou: f-67,f-17
+==> f-68    (ax M 0 A 1 4 E 0 0)
+==> Activation 0      mou: f-68,f-7
+==> Activation 0      mou: f-68,f-17
+==> f-69    (v 2 0 2)
+==> Activation 0      enganxar: f-68,f-69
+==> Activation 0      enganxar: f-43,f-69
+==> f-70    (ax M 2 A 1 4 E 0 0)
+==> Activation 0      enganxar: f-70,f-6
+==> Activation 0      mou: f-70,f-15
+==> Activation 0      mou: f-70,f-16
+==> f-71    (ax M 4 A 1 4 E 0 0)
+==> Activation 0      mou: f-71,f-13
+==> Activation 0      mou: f-71,f-14
+==> f-72    (ax M 3 A 1 4 E 0 0)
+==> Activation 0      mou: f-72,f-11
+==> Activation 0      mou: f-72,f-12
+==> f-73    (ax M 1 A 1 4 E 0 0)
+==> Activation 0      mou: f-73,f-8
+==> Activation 0      mou: f-73,f-9
+==> Activation 0      mou: f-73,f-10
+==> f-74    (ax M 5 A 1 4 E 0 0)
+==> Activation 0      mou: f-74,f-18
+==> Activation 0      mou: f-74,f-19
+==> Activation 0      mou: f-74,f-28
+==> f-75    (ax M 7 A 1 4 E 0 0)
+==> Activation 0      mou: f-75,f-26
+==> Activation 0      mou: f-75,f-27
+==> f-76    (ax M 8 A 1 4 E 0 0)
+==> Activation 0      mou: f-76,f-24
+==> Activation 0      mou: f-76,f-25
+==> f-77    (ax M 6 A 1 4 E 0 0)
+==> Activation 0      mou: f-77,f-22
+==> Activation 0      mou: f-77,f-23
+==> f-78    (ax M 9 A 1 4 E 0 0)
+==> Activation 0      enganxar: f-78,f-34
+==> Activation 0      mou: f-78,f-20
+==> Activation 0      mou: f-78,f-21
+==> f-79    (ax M 9 A 1 4 E 1 1)
+==> Activation 0      desenganxar: f-79
+==> Activation 0      mou: f-79,f-20
+==> Activation 0      mou: f-79,f-21
+==> f-80    (ax M 6 A 1 4 E 1 1)
+==> Activation 0      desenganxar: f-80
+==> Activation 0      mou: f-80,f-22
+==> Activation 0      mou: f-80,f-23
+==> Activation 0      carrega: f-80,f-5
+==> f-81    (ax M 6 4 A 1 E 1 1)
+==> Activation 0      mou: f-81,f-22
+==> Activation 0      mou: f-81,f-23
+==> f-82    (ax M 8 4 A 1 E 1 1)
+==> Activation 0      mou: f-82,f-24
+==> Activation 0      mou: f-82,f-25
+==> f-83    (ax M 7 4 A 1 E 1 1)
+==> Activation 0      mou: f-83,f-26
+==> Activation 0      mou: f-83,f-27
+==> f-84    (ax M 5 4 A 1 E 1 1)
+==> Activation 0      mou: f-84,f-18
+==> Activation 0      mou: f-84,f-19
+==> Activation 0      mou: f-84,f-28
+==> f-85    (ax M 9 4 A 1 E 1 1)
+==> Activation 0      mou: f-85,f-20
+==> Activation 0      mou: f-85,f-21
+==> Activation 0      descarr: f-85,f-5
+==> f-86    (ax M 9 A 1 E 1 1)
+==> Activation 0      desenganxar: f-86
+==> Activation 0      mou: f-86,f-20
+==> Activation 0      mou: f-86,f-21
+==> f-87    (ax M 6 A 1 E 1 1)
+==> Activation 0      desenganxar: f-87
+==> Activation 0      mou: f-87,f-22
+==> Activation 0      mou: f-87,f-23
+==> f-88    (ax M 8 A 1 E 1 1)
+==> Activation 0      desenganxar: f-88
+==> Activation 0      mou: f-88,f-24
+==> Activation 0      mou: f-88,f-25
+==> f-89    (ax M 7 A 1 E 1 1)
+==> Activation 0      desenganxar: f-89
+==> Activation 0      mou: f-89,f-26
+==> Activation 0      mou: f-89,f-27
+==> f-90    (ax M 5 A 1 E 1 1)
+==> Activation 0      desenganxar: f-90
+==> Activation 0      mou: f-90,f-18
+==> Activation 0      mou: f-90,f-19
+==> Activation 0      mou: f-90,f-28
+==> f-91    (ax M 1 A 1 E 1 1)
+==> Activation 0      desenganxar: f-91
+==> Activation 0      mou: f-91,f-8
+==> Activation 0      mou: f-91,f-9
+==> Activation 0      mou: f-91,f-10
+==> f-92    (ax M 3 A 1 E 1 1)
+==> Activation 0      desenganxar: f-92
+==> Activation 0      mou: f-92,f-11
+==> Activation 0      mou: f-92,f-12
+==> f-93    (ax M 4 A 1 E 1 1)
+==> Activation 0      desenganxar: f-93
+==> Activation 0      mou: f-93,f-13
+==> Activation 0      mou: f-93,f-14
+==> f-94    (ax M 2 A 1 E 1 1)
+==> Activation 0      desenganxar: f-94
+==> Activation 0      mou: f-94,f-15
+==> Activation 0      mou: f-94,f-16
+==> f-95    (ax M 0 A 1 E 1 1)
+==> Activation 0      desenganxar: f-95
+==> Activation 0      mou: f-95,f-7
+==> Activation 0      mou: f-95,f-17
+==> Activation 0      carrega: f-95,f-2
+==> f-96    (ax M 0 1 A E 1 1)
+==> Activation 0      mou: f-96,f-7
+==> Activation 0      mou: f-96,f-17
+==> f-97    (ax M 2 1 A E 1 1)
+==> Activation 0      mou: f-97,f-15
+==> Activation 0      mou: f-97,f-16
+==> f-98    (ax M 4 1 A E 1 1)
+==> Activation 0      mou: f-98,f-13
+==> Activation 0      mou: f-98,f-14
+==> f-99    (ax M 3 1 A E 1 1)
+==> Activation 0      mou: f-99,f-11
+==> Activation 0      mou: f-99,f-12
+==> Activation 0      descarr: f-99,f-2
+==> f-100   (ax M 3 A E 1 1)
+==> Activation 2      meta: f-100
+==> Activation 0      desenganxar: f-100
+==> Activation 0      mou: f-100,f-11
+==> Activation 0      mou: f-100,f-12
+Solucio trobada!

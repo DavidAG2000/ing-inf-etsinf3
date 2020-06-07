@@ -1,0 +1,57 @@
+{
+    "host": "gtirouter.dsic.upv.es",
+    "manager": "manager_macammoc",
+    "manager_password": "secret",
+    "service": "service_macammoc",
+    "service_password": "secret",
+    "axis": [
+		{
+            "rank": "agentes.SoldadoPropio",
+            "name": "axis_macammoc",
+            "password": "secret",
+            "amount": 5,
+            "asl": "soldado.asl"
+        },
+        {
+            "rank": "BDIMedic",
+            "name": "medic_axis_macammoc",
+            "password": "secret",
+			"amount": 2,
+            "asl": "medico.asl"
+        },
+         {
+            "rank": "BDIFieldOp",
+            "name": "fieldop_axis_macammoc",
+            "password": "secret",
+			"amount": 2,
+            "asl": "operativo.asl"
+        },
+		{
+            "rank": "agentes.BDIGeneral",
+            "name": "general_axis_macammoc",
+            "password": "secret",
+            "asl": "general.asl"
+        }
+    ],
+     "allied": [
+		{
+            "rank": "BDISoldier",
+            "name": "allied_macammoc",
+            "password": "secret",
+            "amount": 8,
+            "asl": "bdisoldier.asl"
+        },
+        {
+            "rank": "BDIMedic",
+            "name": "medic_allied_macammoc",
+            "password": "secret",
+            "asl": "bdimedic.asl"
+        },
+         {
+            "rank": "BDIFieldOp",
+            "name": "fieldop_allied_macammoc",
+            "password": "secret",
+            "asl": "bdifieldop.asl"
+        }
+   ]
+  }
